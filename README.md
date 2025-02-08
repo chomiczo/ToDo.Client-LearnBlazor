@@ -12,6 +12,7 @@ ToDo.Client - Application for managing task lists, built using Blazor .NET 9.0 a
 ## Frontend Stack
 
 [![MudBlazor](https://img.shields.io/badge/MudBlazor-UI%20Components-orange)](https://mudblazor.com/docs/overview)
+[![Blazor](https://img.shields.io/badge/Blazor-Web%20UI-red)](https://learn.microsoft.com/en-us/aspnet/core/blazor/)
 
 ---
 
